@@ -1,0 +1,8 @@
+mqtt_server/
+│── app.py            # Flask API
+│── mqtt_client.py    # Kết nối MQTT
+│── database.py       # Xử lý database
+│── config.py         # Cấu hình server
+└── requirements.txt  # Danh sách thư viện cần thiết
+
+#Cài đặt thư viện requirements.txt
